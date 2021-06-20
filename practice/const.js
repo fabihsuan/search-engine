@@ -1,1 +1,0 @@
-const color = ['#00CDD4', '#00DD44']
